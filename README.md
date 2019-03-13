@@ -1,6 +1,9 @@
 # Newbettermotherfuckingwebsite
 
-Nouveau test pour mettre en ligne "bettermotherfuckingwebsite" mais un nouvel échec "404
+Nouveau test pour mettre en ligne "bettermotherfuckingwebsite" mais un nouvel échec : 
+https://nickbanner.github.io/Newbettermotherfuckingwebsite/
+
+"404
 File not found
 
 The site configured at this address does not contain the requested file.
